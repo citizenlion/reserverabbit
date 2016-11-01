@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-06 00:33:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>018e911567301200f5c55bb557415aec</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Europe</sys_name>

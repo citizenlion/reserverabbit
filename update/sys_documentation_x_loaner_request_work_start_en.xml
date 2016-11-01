@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin_SHARE</sys_created_by>
             <sys_created_on>2016-01-06 00:22:50</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>553cddd167301200f5c55bb557415a26</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Start time</sys_name>

@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_message</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-06 00:42:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0fb0a51567301200f5c55bb557415af6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>loaner_error_end_before_start</sys_name>

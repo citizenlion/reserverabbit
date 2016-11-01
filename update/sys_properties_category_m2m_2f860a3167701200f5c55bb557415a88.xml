@@ -7,7 +7,7 @@
         <sys_class_name>sys_properties_category_m2m</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-07 16:44:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2f860a3167701200f5c55bb557415a88</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_loaner.default.assignment_group.Loaner Request</sys_name>

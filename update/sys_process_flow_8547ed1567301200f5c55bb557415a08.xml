@@ -12,7 +12,7 @@
         <sys_class_name>sys_process_flow</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-06 01:11:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8547ed1567301200f5c55bb557415a08</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Ready for pickup</sys_name>

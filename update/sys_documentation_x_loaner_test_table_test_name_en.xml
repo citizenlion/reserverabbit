@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="cmdb_ci" label="Item" language="en" table="x_loaner_request">
+    <sys_documentation element="test_name" label="Test_name" language="en" table="x_loaner_test_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
+            <element>test_name</element>
             <help/>
-            <hint>Requested item</hint>
-            <label>Item</label>
+            <hint/>
+            <label>Test_name</label>
             <language>en</language>
-            <name>x_loaner_request</name>
-            <plural>Items</plural>
+            <name>x_loaner_test_table</name>
+            <plural>Test_names</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin_SHARE</sys_created_by>
-            <sys_created_on>2016-04-14 02:45:26</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-01 09:03:12</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>db22b34167321200f5c55bb557415a09</sys_id>
+            <sys_id>5a409402db72220029e65d50cf96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Item</sys_name>
+            <sys_name>Test_name</sys_name>
             <sys_package display_value="Reserve Rabbit" source="x_loaner">24e4b01167301200f5c55bb557415a68</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Reserve Rabbit">24e4b01167301200f5c55bb557415a68</sys_scope>
-            <sys_update_name>sys_documentation_x_loaner_request_cmdb_ci_en</sys_update_name>
-            <sys_updated_by>admin_SHARE</sys_updated_by>
-            <sys_updated_on>2016-04-14 02:45:26</sys_updated_on>
+            <sys_update_name>sys_documentation_x_loaner_test_table_test_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-01 09:03:12</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

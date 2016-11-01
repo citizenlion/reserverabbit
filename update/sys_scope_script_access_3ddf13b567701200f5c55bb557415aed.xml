@@ -72,11 +72,11 @@
 	java.lang.Thread.run(Thread.java:695)
 </example_stack_trace>
         <script_name>JSON</script_name>
-        <source_scope display_value="Reserve Rabbit">24e4b01167301200f5c55bb557415a68</source_scope>
+        <source_scope/>
         <sys_class_name>sys_scope_script_access</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-07 23:14:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3ddf13b567701200f5c55bb557415aed</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>JSON</sys_name>

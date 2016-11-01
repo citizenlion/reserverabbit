@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Reserve Rabbit Request">55e4341167301200f5c55bb557415aab</application>
+        <application/>
         <filter/>
         <name>Loaner tasks</name>
         <order/>
@@ -12,7 +12,7 @@
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-05 21:43:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b9c7bc1167301200f5c55bb557415aa3</sys_id>

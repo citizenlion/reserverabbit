@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-05 21:43:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bdc7bc1167301200f5c55bb557415aa7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_loaner_task</sys_name>

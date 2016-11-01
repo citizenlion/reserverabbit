@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-02-01 23:07:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a1dd8c4267111200f5c55bb557415a89</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_loaner_task.admin</sys_name>

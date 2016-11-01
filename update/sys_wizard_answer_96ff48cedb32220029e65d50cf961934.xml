@@ -2,11 +2,11 @@
 <record_update table="sys_wizard_answer">
     <sys_wizard_answer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <answer>Loaner task</answer>
+        <answer>Loaner Request</answer>
         <button_label/>
         <dependent_value/>
         <element/>
-        <name>Loaner task</name>
+        <name>Loaner Request</name>
         <next_question/>
         <order>100</order>
         <payload_name/>
@@ -14,21 +14,21 @@
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-08-08 20:19:33</sys_created_on>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2016-11-01 09:01:51</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>8dfb78fedbc1620029e65d50cf9619cb</sys_id>
+        <sys_id>96ff48cedb32220029e65d50cf961934</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Loaner task</sys_name>
+        <sys_name>Loaner Request</sys_name>
         <sys_package display_value="Reserve Rabbit" source="x_loaner">24e4b01167301200f5c55bb557415a68</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Reserve Rabbit">24e4b01167301200f5c55bb557415a68</sys_scope>
-        <sys_update_name>sys_wizard_answer_8dfb78fedbc1620029e65d50cf9619cb</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-08-08 20:19:33</sys_updated_on>
+        <sys_update_name>sys_wizard_answer_96ff48cedb32220029e65d50cf961934</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-11-01 09:01:51</sys_updated_on>
         <table/>
-        <target_url>x_loaner_task.do</target_url>
+        <target_url>x_loaner_request.do</target_url>
         <type>1</type>
     </sys_wizard_answer>
 </record_update>
